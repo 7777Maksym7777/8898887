@@ -1,0 +1,52 @@
+[main] Головний потік розпочав роботу.
+[Внутрішній потік] Запущено. Засинаю на 1 секунду.
+[Демон] Запущено потік Fibonacci з пріоритетом 7.
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Внутрішній потік] Завершив роботу.
+[Fibonacci] Число 1: 0
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Fibonacci] Число 2: 1
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Fibonacci] Число 3: 1
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Fibonacci] Число 4: 2
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Fibonacci] Число 5: 3
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Fibonacci] Число 6: 5
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Fibonacci] Число 7: 8
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Fibonacci] Число 8: 13
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Fibonacci] Число 9: 21
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Демон] Стан потоку Fibonacci: TIMED_WAITING
+[Fibonacci] Число 10: 34
+[Fibonacci] Внутрішній потік завершився. Потік Fibonacci завершує роботу.
+[main] Потік Fibonacci завершений: true
+[main] Потік-демон усе ще активний: true
+[main] Головний потік завершує роботу.
